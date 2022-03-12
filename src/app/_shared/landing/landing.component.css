@@ -1,0 +1,66 @@
+section {
+    display: table;
+  }
+  
+
+  .example-button-row {
+    display: table-cell;
+    width: 900px;
+    text-align: center;
+   
+  }
+  
+
+  
+  .example-button-container {
+    display: flex;
+    justify-content: center;
+    width: 50px;
+    height: 50px;
+    background-color: 07116d;
+    
+   
+  }
+  .grid{
+    background: white;
+    
+    
+  }
+  .text{
+   position: absolute;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 21px;
+text-align: center;
+color: #000000;
+    
+  }
+ .espace{
+    border-spacing: 10px;
+    border-bottom:solid white 2px;
+    padding: 10px 10px;
+  } 
+  .btn-group button {
+    
+    color: rgb(12, 12, 12); /* White text */
+    cursor: pointer; /* Pointer/hand icon */
+    float: left; /* Float the buttons side by side */
+    
+   
+    
+    
+  }
+  .center {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    justify-content: center;
+    color: rgb(12, 12, 12); /* White text */
+    
+    
+    }
+    

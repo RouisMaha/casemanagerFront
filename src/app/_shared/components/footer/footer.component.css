@@ -1,0 +1,40 @@
+.material-icons.color_blue { color: #07116d; }
+.material-icons.color_twi { color: #1DA1F2; }
+.stylebtn{
+
+    background-color: white;
+    
+      
+      border: none;
+        color: white;
+      
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+      
+
+}
+.footertext{
+  font-size: 16px;
+  font-family: Poppins;
+  color: rgb(8, 8, 83);
+  text-align: center;
+  font-size: 16px;
+}
+.divv{
+  float:"left";
+ padding-left: 30px;
+}
+.hr{
+  border-top: 1px solid rgb(197, 209, 208);
+}
+.f{
+  font-size: 10px;
+  color: black;
+  text-align: center;
+ 
+}
+.spacer{
+  flex: 1 1 auto;
+}
